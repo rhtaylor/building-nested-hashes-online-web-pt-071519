@@ -10,7 +10,7 @@ epic_tragedy = {
       #your key/value pairs here
       },
     :hero_friends => []
- }, 
+ },
  :capulet => {
     :patriarch => {
       #your key/value pairs here
